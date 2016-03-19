@@ -1,0 +1,1 @@
+This is JavaScript aplication based on Kinvey REST API to store notes in a cloud system.
